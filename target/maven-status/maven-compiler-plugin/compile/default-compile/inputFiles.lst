@@ -1,1 +1,6 @@
-/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/mycompany/app/App.java
+/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/multithreaded/app/App.java
+/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/multithreaded/app/Client.java
+/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/multithreaded/app/Server.java
+/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/myserver/app/App.java
+/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/myserver/app/Client.java
+/home/adi/Projects/backendMastery/multithreaded-server/src/main/java/com/myserver/app/Server.java
